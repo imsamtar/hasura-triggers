@@ -1,0 +1,6 @@
+{
+    "invalidRequest": {
+        "code": 400,
+        "message": "invalid request"
+    }
+}
