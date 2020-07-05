@@ -1,0 +1,25 @@
+{
+  "name": "hasura-triggers",
+  "version": "0.0.0-0",
+  "description": "Hasura Triggers simplified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsamtar/hasura-triggers.git"
+  },
+  "keywords": [
+    "hasura",
+    "triggers",
+    "events",
+    "json"
+  ],
+  "author": "SAMEER TARIQ <imsamtar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsamtar/hasura-triggers/issues"
+  },
+  "homepage": "https://github.com/imsamtar/hasura-triggers#readme"
+}
